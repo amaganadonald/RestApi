@@ -13,7 +13,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 /**
  * 
  * @author evrard
- * Class Type de congés
+ * Class des Type de congés
  */
 @Entity
 public class TypeConges {
